@@ -1,2 +1,2 @@
-export * from './auth.controller'
+export * from './varejao.controller';
 export * from './macapa.controller';
