@@ -1,5 +1,5 @@
 import * as pg from 'pg';
-import * as mysql from 'mysql';
+import * as mysql from 'mysql2';
 
 
 /**
